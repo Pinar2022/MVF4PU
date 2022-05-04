@@ -1,7 +1,7 @@
-# MVF4PU
 
 # Modern Work Flows Assignment 4
-# The World Values Survey (WVS) is the largest non-commercial academic survey program which is organized in waves every 5 years.
+
+The World Values Survey (WVS) is the largest non-commercial academic survey program which is organized in waves every 5 years.
 
 #Project’s overall aim is to analyze people’s values, beliefs and norms in a comparative cross-national and over-time perspective.
 
